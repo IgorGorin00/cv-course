@@ -8,8 +8,8 @@ The course overall was focused on image processing, classification, etc. This re
 of notebooks focused on cycle-gans, which were not part of course, but i includud them cuz they kinda fit the topic
 of computer vision. 
 
-`classification/` directory contains notebooks devoted to image classification
-`GANs_and_CycleGANs/` directory contains nobooks devoted to generative adversarial networs, and cycle generative adversarial networks
+- `classification/` directory contains notebooks devoted to image classification
+- `GANs_and_CycleGANs/` directory contains nobooks devoted to generative adversarial networs, and cycle generative adversarial networks
 
 Although it might seem, like notebooks contain a lot of copypasted code, in fact i was always 
 rewriting it by hand in order to remember the code linked to particular problem.
